@@ -1,4 +1,4 @@
- <h1 align="center"> <a href="https://www.yuque.com/wxpid1"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);最好的保鲜就是不断进步！ 🚀🚀🚀&center=true&size=27"> </a> </h1>
+ <h1 align="center"> <a href="https://www.yuque.com/wxpid1"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);最好的保鲜就是不断进步!&center=true&size=27"> </a> </h1>
 
 <div align="center" text-align: center; letter-spacing: 3px;">
   <!-- 前端技术栈 -->
