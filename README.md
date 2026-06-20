@@ -1,6 +1,11 @@
- <h1 align="center"> <a href="https://www.yuque.com/wxpid1">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);喜欢的东西很贵，想去的地方很远，喜欢的人很优秀。&center=center&size=27&width=1000&height=90&duration=3600&pause=1500&multiline=true&letterSpacing=1" alt="语雀"> </a> 
+# 👋 Hi, I'm [王小平]
+<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
+💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
+
+<h1 align="center"> <a href="https://www.yuque.com/wxpid1">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);喜欢的东西很贵，想去的地方很远，喜欢的人很优秀。&center=left&size=27&width=1000&height=90&duration=3000&pause=500&multiline=true&letterSpacing=1" alt="语雀"> </a> 
 </h1>
+
 <div align="center" text-align: center; letter-spacing: 3px;">
   <!-- 前端技术栈 -->
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
